@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Pepperoni Pizza",
+      "description": "Lots of pepperoni, and lots of cheese! This firm favourite deserves it’s place at the top of the PizzazTin list.",
+      "price": 7.99,
+      "imageUrl": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": "1"
+    },
+    {
+      "name": "Supreme Pizza",
+      "description": "Hot on the heels of pepperoni is Supreme, THE pizza I grew up with. The one rule I have about supreme? It’s gotta have at least TWO meats. Otherwise, it’s just another pizza….😉.",
+      "price": 14.99,
+      "imageUrl": "https://images.pexels.com/photos/20030838/pexels-photo-20030838.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": "2"
+    },
+    {
+      "name": "BBQ Meatlovers Pizza",
+      "description": "You don’t even need to use a fancy BBQ sauce here. Any generic store bought BBQ sauce is fine – this one is all about the toppings!",
+      "price": 29.99,
+      "imageUrl": "https://images.pexels.com/photos/803290/pexels-photo-803290.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": "3"
+    }
+  ]
+}
