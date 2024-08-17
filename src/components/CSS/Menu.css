@@ -1,0 +1,23 @@
+
+.nav-item .btn-success {
+    background-color: #07cdff;
+    color: #333;
+}
+.btn-success:active{
+    background-color: #ff077f;
+    color: #ddd1d1;
+}
+.nav-item .btn-success:hover {
+    background-color: #f2f1ee;
+}
+.nav-item {
+    list-style-type: none; 
+}
+.navbar-brand {
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    white-space: normal;
+    background-color: #e6e2e4;
+    color: #0e0d0d;
+}
+
